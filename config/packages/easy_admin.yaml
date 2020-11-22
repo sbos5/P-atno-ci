@@ -1,0 +1,10 @@
+easy_admin:
+    entities:
+#        # List the entity class name you want to manage
+        - App\Entity\Item
+        - App\Entity\Orders
+         - App\Entity\User
+         -App\Entity\Auto
+         -App\Entity\Osoba
+         - App\Entity\Pan
+         -App\Entity\Kot
